@@ -39,7 +39,7 @@ export function About() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1574132190990-cfd62178bb1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGxlYXJuaW5nJTIwdGVhY2hlcnxlbnwxfHx8fDE3NjI4MjY2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://www.pagesjaunes.fr/media/newdam/26/92/2f/00/00/d8/f9/1e/e2/08/683426922f0000d8f91ee208/683426922f0000d8f91ee209.png"
                 alt="Students learning with teacher"
                 className="w-full h-[500px] object-cover"
               />

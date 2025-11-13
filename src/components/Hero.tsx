@@ -1,4 +1,5 @@
 import { motion, useScroll, useTransform } from "motion/react";
+import "../styles/scrollbar.css";
 import { Button } from "./ui/button";
 import { Sparkles, CalendarCheck, ArrowRight } from "lucide-react";
 import { useRef } from "react";
@@ -183,7 +184,7 @@ export function Hero() {
             >
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white/20 backdrop-blur-sm">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1747835747005-9178ef147f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0dW5pc2lhbiUyMHN0dWRlbnRzJTIwdGVlbmFnZXJzfGVufDF8fHx8MTc2Mjg1NDIxOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src="https://media.istockphoto.com/id/1498161814/photo/little-girl-drawing-with-markers-at-the-nursery.jpg?s=612x612&w=0&k=20&c=0YnnZBAPiO74BxQPx3hMa6f2ipQpolqSHofMikjU0kQ="
                   alt="Middle school students learning together"
                   className="w-full h-[600px] object-cover"
                 />
